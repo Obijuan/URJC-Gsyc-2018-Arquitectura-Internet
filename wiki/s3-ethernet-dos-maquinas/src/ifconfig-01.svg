@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="464.78928"
-     inkscape:cy="214.19579"
+     inkscape:cx="446.83772"
+     inkscape:cy="321.42961"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -201,7 +201,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-276.0401"
-       y="314.80612"
+       y="330.52042"
        id="text4213-3-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-05.png"
@@ -209,7 +209,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="-276.0401"
-         y="314.80612"
+         y="330.52042"
          id="tspan4217-7-5">Estado de la interfaz</tspan></text>
     <text
        xml:space="preserve"
@@ -281,7 +281,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -278.57143,321.64791 208.57143,0 122.142857,27.14287 0,0 0,0"
+       d="m -278.57143,335.21934 208.57143,0 122.142857,13.57144 0,0 0,0"
        id="path4359"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -338,6 +338,28 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -350.52293,506.87983 299.00515,0 105.055865,-35.35534"
        id="path4412"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-353.18295"
+       y="289.09186"
+       id="text4213-3-3-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-353.18295"
+         y="289.09186"
+         id="tspan4217-7-5-6">Dirección IP y máscara de red</tspan></text>
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -349.35711,296.00507 407.85714,0"
+       id="path4197"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-05.png"
        inkscape:export-xdpi="90"
