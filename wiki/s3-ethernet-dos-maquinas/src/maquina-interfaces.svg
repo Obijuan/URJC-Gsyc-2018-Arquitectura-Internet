@@ -238,9 +238,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="531.37881"
-     inkscape:cy="337.53262"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="509.34845"
+     inkscape:cy="285.82168"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -274,12 +274,15 @@
      style="display:inline"
      transform="translate(99.52214,-47.842373)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4312"
        width="1062.8414"
        height="537.17352"
        x="-99.022141"
-       y="48.342373" />
+       y="48.342373"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -292,27 +295,39 @@
        cx="706.09668"
        cy="194.08533"
        rx="114.14724"
-       ry="42.07362" />
+       ry="42.07362"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4292-9"
        width="86.13781"
        height="68.690369"
        x="716.34613"
-       y="279.6568" />
+       y="279.6568"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4292"
        width="98.994949"
        height="68.185295"
        x="586.89862"
-       y="280.01392" />
+       y="280.01392"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 96.343299,329.59806 c 0,0 -15.927282,-3.76366 -30.178308,4.16688 -22.11271,12.30547 -58.1199293,50.77312 -58.1199293,50.77312 0,0 2.0203053,0.75761 2.3991123,1.64149 0.378807,0.88389 -0.126269,3.15673 0.757614,3.78808 0.883884,0.63134 46.400106,-46.90721 61.150387,-52.79343 10.80642,-4.31239 20.960666,-1.76777 20.960666,-1.76777 z"
        id="path4189"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscssscc" />
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="141.44501"
        x="76.050095"
@@ -35446,31 +35461,46 @@ gg==
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="258.21429"
-       width="355.10098" />
+       width="355.10098"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4147"
        width="255.71428"
        height="4.6428566"
        x="127.48767"
-       y="306.29077" />
+       y="306.29077"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 102.40421,333.89121 3.15673,-4.29315 -8.08122,-0.25254 -3.914341,4.16688 z"
        id="path4168"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 93.565203,333.89121 0,3.34613 6.02916,0.12626 2.746617,-3.28299"
        id="path4170"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="207.08127"
        y="130.09293"
        id="text4191"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193"
          x="207.08127"
@@ -35481,7 +35511,10 @@ gg==
        x="29.463711"
        y="300.18353"
        id="text4191-6"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-7"
          x="29.463711"
@@ -35496,7 +35529,10 @@ gg==
        x="3.5421312"
        y="413.03253"
        id="text4191-6-5"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="3.5421312"
          y="413.03253"
@@ -35507,7 +35543,10 @@ gg==
        x="613.33478"
        y="200.57098"
        id="text4191-62"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-9"
          x="613.33478"
@@ -35518,7 +35557,10 @@ gg==
        x="608.85828"
        y="321.81268"
        id="text4191-62-1"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-9-2"
          x="608.85828"
@@ -35530,7 +35572,10 @@ gg==
        x="747.19946"
        y="314.37396"
        id="text4191-62-1-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-9-2-0"
          x="747.19946"
@@ -35540,70 +35585,103 @@ gg==
        style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700)"
        d="m 735.30421,234.78507 0.50508,39.20366"
        id="path4314"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-3)"
        d="m 773.7876,278.21232 -1.48262,-46.17508"
        id="path4314-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5396)"
        d="m 736.09168,280.99154 0.71429,41.78571 c 0,0 4.28236,15.16487 19.28571,15 16.25,-0.17856 18.92857,-17.85714 18.92857,-17.85714 l -0.53571,-35.17857"
        id="path5373"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscc" />
+       sodipodi:nodetypes="ccscc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-6)"
        d="m 639.54124,228.52482 -14.95875,45.48471"
        id="path4314-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-6-1)"
        d="m 642.87969,277.23816 14.20114,-41.94918"
        id="path4314-6-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7404"
        width="328.29959"
        height="326.27927"
        x="548.01282"
-       y="112.41022" />
+       y="112.41022"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7442"
        width="27.142857"
        height="19.285715"
        x="607.52026"
-       y="426.94913" />
+       y="426.94913"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-6-9)"
        d="m 616.6841,351.73911 0.39839,67.51372"
        id="path4314-6-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-6-9-2)"
        d="m 628.46981,420.47076 0.39839,-64.98834"
        id="path4314-6-0-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 615.026,446.14197 c 0,0 -0.49157,9.84219 -26.96403,24.88116 -25.98484,14.76196 -60.7985,52.91598 -60.7985,52.91598 0,0 2.02031,0.75761 2.39911,1.64149 0.37881,0.88389 -0.12626,3.15673 0.75762,3.78808 0.88388,0.63134 36.41,-40.27534 61.15039,-52.79343 24.4657,-12.3791 31.85352,-30.69634 31.85352,-30.69634 z"
        id="path4189-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscssscc" />
+       sodipodi:nodetypes="cscssscc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="477.12656"
        y="472.55917"
        id="text4191-6-9"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-7-2"
          x="477.12656"
@@ -35618,7 +35696,10 @@ gg==
        x="512.11353"
        y="561.49011"
        id="text4191-6-5-8"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="512.11353"
          y="561.49011"
@@ -35629,7 +35710,10 @@ gg==
        x="652.64325"
        y="394.72528"
        id="text4191-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-3"
          x="652.64325"
@@ -35639,19 +35723,28 @@ gg==
        style="opacity:1;fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker8480)"
        d="M 685.02025,367.42011 668.59168,335.99154"
        id="path8452"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="m 756.09168,370.99154 22.85714,-28.57143"
        id="path8454"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="565.65271"
        y="137.23578"
        id="text4191-61"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4193-2"
          x="565.65271"
@@ -35661,20 +35754,29 @@ gg==
        d="m 589.36267,459.77483 c -24.09199,10.21776 -39.96598,26.1524 -53.17304,43.94229"
        id="path4314-6-0-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4700-6-9-9-4)"
        d="m 559.89763,515.91453 c 16.16055,-19.67213 31.36977,-32.00094 55.31589,-42.87086"
        id="path4314-6-0-9-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="629.05334"
        y="509.38318"
        id="text4191-6-5-8-4"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/pant-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="629.05334"
          y="509.38318"
