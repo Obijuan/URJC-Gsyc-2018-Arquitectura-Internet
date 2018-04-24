@@ -19,6 +19,20 @@
   <defs
      id="defs4">
     <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4468"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker8372"
@@ -78,22 +92,6 @@
          style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(0.6,0.6)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Mend"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path5225"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6,-0.6)"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
@@ -195,10 +193,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70751443"
-     inkscape:cx="539.29663"
-     inkscape:cy="115.63389"
+     inkscape:cx="487.70758"
+     inkscape:cy="223.05219"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -238,7 +236,7 @@
        y="25.455675"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -260,7 +258,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 490.59842,140.95348 -134.72131,0 0,67.00984 134.72131,0 z"
@@ -269,7 +267,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
        xml:space="preserve"
@@ -281,7 +279,7 @@
        id="text4190-2-1-4-3-9-4-0-62"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91">Dir. Ethernet</tspan></text>
     <text
@@ -295,7 +293,7 @@
        id="text4190-2-1-4-3-9-4-0-67-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-53-7">Destino</tspan></text>
     <path
@@ -306,7 +304,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 903.31086,140.95348 -90.90595,0 0,67.00983 90.90595,0 z"
@@ -315,7 +313,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="display:inline;opacity:1;fill:#f4d7d7;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 811.31134,140.95348 -229.41903,0 0,67.00983 229.41903,0 z"
@@ -324,7 +322,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="opacity:1;fill:#f4d7d7;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.00000002, 12.00000005;stroke-dashoffset:0;stroke-opacity:1"
        d="m 736.53584,142.10863 0,66.76436"
@@ -332,7 +330,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="display:inline;opacity:1;fill:#dde9af;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 219.93256,140.95348 -71.82508,0 0,67.00984 71.82508,0 z"
@@ -341,7 +339,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
        xml:space="preserve"
@@ -353,7 +351,7 @@
        id="text4190-2-1-4-3-9-4-0-62-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91-4">Inicio</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
@@ -366,7 +364,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
        xml:space="preserve"
@@ -378,7 +376,7 @@
        id="text4190-2-1-4-3-9-4-0-62-7-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91-4-8">Preámbulo</tspan></text>
     <path
@@ -389,7 +387,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
        xml:space="preserve"
@@ -401,7 +399,7 @@
        id="text4190-2-1-4-3-9-4-0-62-7-7-4"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91-4-8-9">Espacio entre</tspan></text>
     <text
@@ -415,7 +413,7 @@
        id="text4190-2-1-4-3-9-4-0-62-7-7-4-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91-4-8-9-0">frames</tspan></text>
     <text
@@ -429,7 +427,7 @@
        id="text4190-2-1-4-3-9-4-0-62-7-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-91-4-89">Detalles a nivel físicio</tspan></text>
     <path
@@ -439,7 +437,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker8288)"
        d="m 594.65717,297.15397 411.76263,0 0,-87.9493"
@@ -447,7 +445,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker8372)"
        d="m 183.89311,297.19927 0,-85.53212"
@@ -455,7 +453,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -485,7 +483,7 @@
        id="text4190-2-1-4-3-9-4-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2">Dir. Ethernet</tspan></text>
     <text
@@ -499,7 +497,7 @@
        id="text4190-2-1-4-3-9-4-0-67"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-53">Origen</tspan></text>
     <text
@@ -513,7 +511,7 @@
        id="text4190-2-1-4-3-9-4-0-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-3">Tipo de</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
@@ -542,7 +540,7 @@
        id="text4190-2-1-4-3-9-4-0-9-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-3-2">Protocolo</tspan></text>
     <text
@@ -556,7 +554,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7">6 bytes</tspan></text>
     <text
@@ -570,7 +568,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9">6 bytes</tspan></text>
     <text
@@ -584,7 +582,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2">2 bytes</tspan></text>
     <text
@@ -598,7 +596,7 @@
        id="text4190-2-1-4-3-9-4-0-9-9-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-3-2-3">Datos</tspan></text>
     <text
@@ -612,7 +610,7 @@
        id="text4190-2-1-4-3-9-4-0-9-9-7-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-3-2-3-1">Relleno</tspan></text>
     <text
@@ -626,7 +624,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-9">46-1500 bytes</tspan></text>
     <text
@@ -640,7 +638,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-1">4 bytes</tspan></text>
     <text
@@ -654,31 +652,9 @@
        id="text4190-2-1-4-3-9-4-0-9-9-7-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          id="tspan4342-8-3-0-9-3-00-2-3-2-3-0">CRC</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
-       d="m 220.83315,96.91111 682.60648,0"
-       id="path4622"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
-    <text
-       style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
-       xml:space="preserve"
-       x="521.55353"
-       y="80.002808"
-       font-style="normal"
-       font-weight="normal"
-       font-size="240"
-       id="text4190-2-1-4-3-9-4-0-7-8-3-5-3"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
-         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-6">Tamaño mínimo: 64 bytes = 6 + 6 + 2 + 46 + 4</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-1);marker-end:url(#Arrow2Mend-6)"
        d="m 219.41512,229.06389 362.48093,0"
@@ -686,7 +662,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
        xml:space="preserve"
@@ -698,7 +674,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-3-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-6-6">Cabecera</tspan></text>
     <path
@@ -708,7 +684,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
        xml:space="preserve"
@@ -720,7 +696,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-3-0-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-6-6-5">Datos</tspan></text>
     <path
@@ -730,7 +706,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png" />
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png" />
     <text
        style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
        xml:space="preserve"
@@ -742,7 +718,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-5-3-0-6-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-6-6-5-2">CRC</tspan></text>
     <text
@@ -756,7 +732,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-4"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-3">1 byte</tspan></text>
     <text
@@ -770,7 +746,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-4-8"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-3-8">7 bytes</tspan></text>
     <text
@@ -784,7 +760,7 @@
        id="text4190-2-1-4-3-9-4-0-7-8-3-4-8-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/trama-ethernet-1.png"><tspan
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-1.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
          id="tspan4342-8-3-0-9-3-00-2-5-7-7-3-8-1">12 bytes</tspan></text>
   </g>
