@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="197.55569mm"
+   height="140.37434mm"
+   viewBox="0 0 700.00047 497.38942"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Trama-ethernet-3.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3613"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:#ff9955;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8372"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path8374" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5225"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-0"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5225-3"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-0-5"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5225-3-4"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-1-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-0-5-9"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-5-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5225-3-4-7"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-5"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1-1-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-0-5-1"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-5-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5225-3-4-70"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5222-7"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5225-2"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70751445"
+     inkscape:cx="430.89637"
+     inkscape:cy="355.66367"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(-161.9655,109.46655)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4569"
+       width="700.00049"
+       height="497.38943"
+       x="161.9655"
+       y="-109.46655"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.792963,-94.274322)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="blocks"
+     style="display:inline"
+     transform="translate(-161.9655,109.46655)">
+    <path
+       style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 355.61884,214.91084 H 220.89752 v 67.00984 h 134.72132 z"
+       id="rect4403-2-0-1-6-4-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <path
+       style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 490.59842,214.91084 H 355.87711 v 67.00984 h 134.72131 z"
+       id="rect4403-2-0-1-6-4-7-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="288.05319"
+       y="239.90034"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-62"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-91">Dir. Ethernet</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="288.05319"
+       y="263.22141"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-67-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-53-7">Destino</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 582.46934,214.91084 h -90.90595 v 67.00984 h 90.90595 z"
+       id="rect4403-2-0-1-6-4-7-3-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <path
+       style="display:inline;opacity:1;fill:#f4d7d7;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 811.88837,214.91084 H 582.46934 v 67.00983 h 229.41903 z"
+       id="rect4403-2-0-1-6-4-7-3-5-0-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <path
+       style="opacity:1;fill:#f4d7d7;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.00000002, 12.00000005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 649.74432,216.06599 v 66.76436"
+       id="path4536"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <path
+       style="display:inline;opacity:1;fill:#f4d7d7;fill-opacity:1;stroke:#000000;stroke-width:1.99999952;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 528.34946,-34.320476 H 407.61778 v 67.00982 h 120.73168 z"
+       id="rect4403-2-0-1-6-4-7-3-5-0-8-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     style="display:inline"
+     transform="translate(-161.9655,109.46655)">
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="495.65936"
+       y="131.04933"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-8-5-6-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan4342-8-3-0-9-3-0-6-2-2" /></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="425.15289"
+       y="239.90034"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2">Dir. Ethernet</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="418.7926"
+       y="263.22141"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-67"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-53">Origen</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="534.69128"
+       y="239.90034"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-3">Tipo de</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4340" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342" /></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="500.06302"
+       y="-136.52435"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="537.51807"
+       y="263.22141"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-3-2">Protocolo</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="288.52246"
+       y="199.35413"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7">6 bytes</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="418.44757"
+       y="199.35413"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9">6 bytes</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="531.7254"
+       y="199.35413"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2">2 bytes</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="723.91003"
+       y="253.32762"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9-7-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4342-8-3-0-9-3-00-2-3-2-3-1">Relleno</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="733.97394"
+       y="199.35413"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-9">42 bytes</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
+       d="M 220.4123,337.82619 H 811.28286"
+       id="path4622"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110252px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#008000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="512.27808"
+       y="360.66974"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-6">Tamaño mínimo: 60 bytes </tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:27.8852272px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="467.65732"
+       y="7.8248825"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9-7-67"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.33999443px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-3-2-3-5">H O L A</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110062px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="465.94916"
+       y="-71.545769"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-5">4 bytes</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-1-1-9);marker-end:url(#Arrow2Mend-6-5-2)"
+       d="M 407.61778,-56.129455 H 528.34945"
+       id="path4622-2-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110062px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="662.67126"
+       y="5.6177235"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9-7-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999905px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-3-2-3-6">Datos a enviar a otra máquina</tspan></text>
+    <path
+       style="fill:#ff9955;stroke:#ff9955;stroke-width:9.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 466.59111,56.635317 V 137.21386"
+       id="path3466"
+       inkscape:connector-curvature="0" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110062px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="615.84961"
+       y="253.32762"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9-7-6-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-3-2-3-1-6">HOLA</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110062px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="615.20428"
+       y="199.35413"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-26"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-1">4 bytes</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart-8);marker-end:url(#Arrow2Mend-9)"
+       d="M 584.9258,315.30015 H 811.16121"
+       id="path4622-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92110062px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#0000ff;stroke-width:0.025in"
+       xml:space="preserve"
+       x="696.64972"
+       y="303.47025"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-7-8-3-5-2-2-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.99999905px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-5-7-7-9-2-9-3">46 bytes</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92109871px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="576.63837"
+       y="95.349861"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       id="text4190-2-1-4-3-9-4-0-9-9-7-3-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999809px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.025in"
+         id="tspan4342-8-3-0-9-3-00-2-3-2-3-6-5">Encapsulamiento en </tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:17.92109871px;line-height:0%;font-family:Times;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.025in"
+       xml:space="preserve"
+       x="576.63837"
+       y="120.64778"
+       font-style="normal"
+       font-weight="normal"
+       font-size="240"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/trama-ethernet-2.png"
+       id="text6433"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999809px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.025in"
+         id="tspan6435">la trama ethernet</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999809px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.025in"
+         id="tspan6423" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999809px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.025in"
+         id="tspan6425" /></text>
+  </g>
+</svg>
