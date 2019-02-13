@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="381.21667mm"
+   height="145.71234mm"
+   viewBox="0 0 1350.7678 516.30357"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="escenario-2-maq-01.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="727.61202"
+     inkscape:cy="236.25703"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(375.78568,-46.13007)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4415"
+       width="1347.7678"
+       height="513.30359"
+       x="-374.28568"
+       y="47.63007"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="black-background"
+     style="display:inline"
+     transform="translate(375.78568,-46.13007)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4164"
+       width="718.57141"
+       height="354.28574"
+       x="-31.412481"
+       y="178.99132"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(375.78568,-46.13007)"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-70.481553,-22.873232)"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4138"><rect
+           id="rect4140"
+           width="714.28577"
+           height="304.28571"
+           x="61.42857"
+           y="238.07649"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara4142"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">pc1:~# ifconfig eth0</flowPara><flowPara
+         id="flowPara4144"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">eth0   Link encap:Ethernet    HWaddr 7e:b1:11:0e:0d:a9  </flowPara><flowPara
+         id="flowPara4146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'" /><flowPara
+         id="flowPara4148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'" /><flowPara
+         id="flowPara4150"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">          BROADCAST MULTICAST  MTU:1500  Metric:1</flowPara><flowPara
+         id="flowPara4152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">          RX packets:0 errors:0 dropped:0 overruns:0 frame:0</flowPara><flowPara
+         id="flowPara4154"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0</flowPara><flowPara
+         id="flowPara4156"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">          collisions:0 txqueuelen:0 </flowPara><flowPara
+         id="flowPara4158"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)</flowPara><flowPara
+         id="flowPara4160"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"> </flowPara><flowPara
+         id="flowPara4162"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">pc1:~#</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot875"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.93750002,0,0,0.93750002,-375.78568,103.71935)"><flowRegion
+         id="flowRegion877"><rect
+           id="rect879"
+           width="377.79706"
+           height="51.51778"
+           x="-27.274118"
+           y="165.03627" /></flowRegion><flowPara
+         id="flowPara881"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Description"
+     transform="translate(375.78568,-46.13007)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4211"
+       width="62.171734"
+       height="26.579638"
+       x="-13.179329"
+       y="247.27061"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-343.45187"
+       y="221.00667"
+       id="text4213"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-343.45187"
+         y="221.00667"
+         id="tspan4217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Nemónico del interfaz (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan864">eth0</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="252.71162"
+       y="83.925568"
+       id="text4213-3"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="252.71162"
+         y="83.925568"
+         id="tspan4217-7"
+         style="font-size:20px;line-height:1.25">Tipo de inferfaz: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan883">Red ethernet</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244"
+       width="240.87137"
+       height="24.243662"
+       x="57.578697"
+       y="248.28079"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-276.0401"
+       y="289.67221"
+       id="text4213-3-3"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-276.0401"
+         y="289.67221"
+         id="tspan4217-7-5"
+         style="font-size:20px;line-height:1.25">Estado de la interfaz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-243.93942"
+       y="321.18484"
+       id="text4213-3-3-2"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-243.93942"
+         y="321.18484"
+         id="tspan4217-7-5-9"
+         style="font-size:20px;line-height:1.25">Paquetes recibidos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-294.33771"
+       y="372.99716"
+       id="text4213-3-3-2-1"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-294.33771"
+         y="372.99716"
+         id="tspan4217-7-5-9-2"
+         style="font-size:20px;line-height:1.25">Paquetes transmitidos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-354.10706"
+       y="452.0123"
+       id="text4213-3-3-2-1-7"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-354.10706"
+         y="452.0123"
+         id="tspan4217-7-5-9-2-0"
+         style="font-size:20px;line-height:1.25">Bytes recibidos y transmitidos</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -341.43156,231.10819 h 257.588899 l 69.653175,29.18393 v 0"
+       id="path4340"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 223.68478,247.27063 37.55283,-141.6739 H 520.4811"
+       id="path4342"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-5-9"
+       width="10.774938"
+       height="24.243662"
+       x="46.847775"
+       y="280.9068"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -277.23214,294.37112 h 208.571426 l 112.767857,0.84823"
+       id="path4359"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -259.0625,325.68867 H 49.508929"
+       id="path4363"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-5-9-3"
+       width="158.40118"
+       height="24.243662"
+       x="52.204918"
+       y="307.51395"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-5-9-3-6"
+       width="159.74046"
+       height="24.243662"
+       x="51.535275"
+       y="337.8299"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -292.8125,379.19256 H -72.098215 L 50.758928,350.62113"
+       id="path4395"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-5-9-3-6-0"
+       width="433.70657"
+       height="27.81509"
+       x="54.303127"
+       y="396.01538"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -352.41697,461.42296 H -53.411816 L 53.064576,409.4948"
+       id="path4412"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-3"
+       width="220.03696"
+       height="24.243662"
+       x="412.71045"
+       y="246.38675"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.99999905px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="557.89368"
+       y="155.99838"
+       id="text4213-3-6"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="557.89368"
+         y="155.99838"
+         id="tspan4217-7-7"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999994px">Dirección física</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 518.20793,246.32722 33.5987,-82.95751 h 159.02608"
+       id="path4342-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-3-5"
+       width="124.38812"
+       height="24.243662"
+       x="338.84305"
+       y="275.74429"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 462.33746,299.36023 278.6445,1.3271 h 206.6016"
+       id="path4342-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.99999905px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="696.99994"
+       y="293.76083"
+       id="text4213-3-6-2"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="696.99994"
+         y="293.76083"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999982px"
+         id="tspan984">Unidad máxima de datos</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4244-5-9-3-6-1"
+       width="138.31189"
+       height="24.243662"
+       x="52.874561"
+       y="367.29419"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -293.77646,416.00747 H -73.062183 L 51.688984,377.96587"
+       id="path4395-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.99999905px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-292.99844"
+       y="410.49716"
+       id="text4213-3-3-2-1-70"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/URJC-Gsyc-2018-Arquitectura-Internet/wiki/s3-ethernet-dos-maquinas/escenario-2-maq-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-292.99844"
+         y="410.49716"
+         id="tspan4217-7-5-9-2-9"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999994px">Colisiones</tspan></text>
+  </g>
+</svg>
