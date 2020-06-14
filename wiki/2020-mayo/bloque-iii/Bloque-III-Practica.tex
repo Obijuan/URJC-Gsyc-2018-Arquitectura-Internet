@@ -1,0 +1,341 @@
+% !TeX TXS-program:compile = txs:///pdflatex/[--shell-escape]
+
+\documentclass[a4paper]{article}
+\usepackage{fullpage}
+\usepackage[spanish]{babel}
+
+\usepackage[default]{lato}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+\usepackage[scaled=.9]{noto-mono} %% Change default mono font
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{colortbl}
+
+% Special fonts and glyphs
+% \usepackage{palatino}
+\usepackage{fontawesome}
+\usepackage{adforn}
+
+% setlists (itemize, enumerate) with customized icons
+% easy restart of number sequence in enumerate
+% http://ctan.org/pkg/enumitem
+\usepackage[shortlabels]{enumitem}
+
+\newcommand{\usageitem}[1]{%
+  \item[%
+    {\makebox[2em]{\strut #1}}%
+  ]
+}
+
+%% Ajustar interlineado entre párrafos a una línea en blanco
+\setlength{\parskip}{2mm}
+
+% Roman numbers for section
+\renewcommand{\thesection}{\Roman{section}} 
+\renewcommand{\thesubsection}{\thesection.\Arabic{subsection}}
+
+\usepackage{url}
+%%% PDF file metadata
+
+%%% Customized colors for this document
+\definecolor{darkred}{rgb}{0.5,0,0}
+\definecolor{darkgreen}{rgb}{0,0.5,0}
+\definecolor{darkblue}{rgb}{0,0,0.5}
+
+% Colored boxes for information corners
+\usepackage{tcolorbox}% http://ctan.org/pkg/tcolorbox
+
+% Caja azul con título para información, explicaciones extra y detalles
+% Icons: \faInfoCircle \faBook \faBookmark
+\newtcolorbox{mybluebox}[1]{colback=darkblue!5!white,colframe=darkblue!75!black,
+                            fonttitle=\normalfont,title=#1}
+                            
+% Caja verde para comentarios adicionales
+% Icons: \faComment \faCrosshairs
+\newtcolorbox{mygreenbox}[1]{colback=darkgreen!5!white,colframe=darkgreen!75!black,
+                             fonttitle=\normalfont,title=#1}
+                             
+% Caja roja con título para posibles problemas explicaciones extra y detalles
+% Icons: \faExclamationCircle \faBomb
+\newtcolorbox{myredbox}[1]{colback=darkred!5!white,colframe=darkred!75!black,
+                           fonttitle=\normalfont,title=#1}
+
+\usepackage{minted}
+% \usepackage{tcolorbox}
+% \tcbuselibrary{minted,skins}
+% 
+% \newtcblisting{bashcode}{
+%   listing engine=minted,
+%   colback=bashcodebg,
+%   colframe=black!70,
+%   listing only,
+%   minted style=colorful,
+%   minted language=bash,
+%   minted options={linenos=true,texcl=true},
+%   left=1mm,
+% }
+% \definecolor{bashcodebg}{rgb}{0.85,0.85,0.85}
+% 
+% \newtcblisting{pycode}{
+%   listing engine=minted,
+%   colback=pycodebg,
+%   colframe=black!70,
+%   listing only,
+%   minted style=colorful,
+%   minted language=python,
+%   minted options={linenos=true,texcl=true},
+%   left=1mm,
+% }
+% \definecolor{pycodebg}{rgb}{0.85,0.85,0.85}
+
+\usepackage[pdftex]{hyperref}
+
+\definecolor{darkred}{rgb}{0.5,0,0}
+\definecolor{darkgreen}{rgb}{0,0.5,0}
+\definecolor{darkblue}{rgb}{0,0,0.5}
+
+\hypersetup{
+    pdftoolbar=true,	%Shows Adobe Acrobat toolbar
+    pdfmenubar=true,	%Shows Adobe Acrobat menu
+    pdftitle={AI - Bloque III - Práctica - 2020},
+    pdfauthor={Juan González, Felipe Ortega},
+    pdfcreator={GSyC, ETSIT},
+    pdfproducer={PDFLaTeX},
+    pdfsubject={AI - Evaluación - Práctica - 2020},
+    pdfnewwindow=true,  %links open in new window
+    colorlinks=true,    %false: boxed links; true: coloured links
+    linkcolor=darkred,
+    citecolor=darkgreen,
+    urlcolor=darkblue
+}
+
+\begin{document}
+	
+\includegraphics[width=2.5cm]{gsyc-logo-small.png} \hspace{8cm} \includegraphics[width=4cm]{URJClogo.png}
+
+%--- Heading metadata
+\begin{center}
+ \LARGE{\textbf{Evaluación Bloque III (Práctica)}}
+ \smallskip
+ 
+ \large{\textbf{Arquitectura de Internet}}
+ 
+ \large{Grado en Ing. Sistemas Audiovisuales y Multimedia}
+ 
+ \large{ETSIT, URJC}
+ \smallskip
+ 
+ \large{\underline{\today}}
+\end{center}
+\bigskip
+
+\hrule
+\smallskip
+
+\setlist[itemize]{leftmargin=12mm}
+
+\begin{itemize}[leftmargin=0.8cm,itemsep=6pt,topsep=6pt]
+  \usageitem{\faSend} \textbf{Envío}: El envío se realizará a través del espacio de entrega
+  habilitado en el apartado \textit{Evaluación} de la página de la asignatura en Aula Virtual.
+	
+  \usageitem{\faWrench} \textbf{Herramientas software}: Utiliza NetGUI, Wireshark así como las herramientas
+  Linux que se han ido introduciendo en las Prácticas 3 a 5 para contestar las preguntas de
+  cada apartado. 
+  
+  \usageitem{\faFileO} \textbf{Formato}: Puedes enviar tus respuestas en un fichero de procesador 
+  de textos (LibreOffice u Open-Office) o en formato PDF. También es válido componer un 
+  documento con una herramienta de notas para tables, siempre que el envío se realice 
+  \textbf{en formato PDF}.
+  
+  \usageitem{\faExclamationCircle} \textbf{Advertencia}: Incluye claramente en el documento
+  de tu respuesta tus datos personales, así como \textbf{toda la información solicitada} en
+  cada pregunta (pantallazos, comandos, justificaciones, etc.). De lo contrario, la respuesta
+  no puntuará.
+  
+  \usageitem{\faCalendar} \textbf{Fecha tope de entrega}: \textbf{\underline{Domingo, 31 de mayo de 2020}}.
+\end{itemize}
+
+\medskip
+\hrule
+%--- End of heading metadata
+
+\bigskip
+
+\section{Enrutamiento IP}
+\label{sec:ip-routing}
+
+Descomprime el escenario disponible en el fichero \texttt{escenario-test.zip} y ábrelo con NetGUI. 
+Arranca todas las máquinas.
+
+\begin{enumerate}
+	\item  Obtén las tablas de enrutamiento de \textbf{\underline{todas las máquinas}} que estén 
+	configuradas e indica el comando que hay que usar. Adjunta pantallazos de los resultados en el 
+	terminal en todas las máquinas.
+	
+	\item Comprueba si \texttt{pc2} y \texttt{pc4} pueden intercambiar datagramas. Indica el comando
+	que has usado para ello, la salida que produce y por qué deduces que hay conectividad.
+	
+	\item Los paquetes enviados de \texttt{pc2} a \texttt{pc4}, ¿qué ruta siguen? Justifícalo, indicando
+	los comandos que hay que ejecutar para saberlo, y las salidas que producen.
+	
+	\item Los paquetes enviados de \texttt{pc4} a \texttt{pc2}, ¿qué ruta siguen? Justifícalo, indicando 
+	los comandos que hay que ejecutar para saberlo, y las salidas que producen.
+	
+	\item Configura la IP de \texttt{pc1} para que haya conectividad con \texttt{pc2}. Los paquetes de
+	\texttt{pc1} a \texttt{pc2} deben seguir la ruta \texttt{pc1} $\rightarrow$ \texttt{r2} $\rightarrow$
+	\texttt{pc2}. Sin cambiar ninguna tabla de enrutamiento del resto de máquinas, ¿qué ruta siguen
+	los paquetes que van de \texttt{pc2} a \texttt{pc1}?
+	
+	\item Apaga \texttt{r1}, \texttt{r2}, \texttt{r3} y \texttt{r4}, por ese orden. Configura las máquinas
+	restantes para que haya conectividad entre todas ellas. Muestra la información del comando 
+	\texttt{traceroute} desde \texttt{pc1} al resto de máquinas, y justifica por qué tu configuración está 
+	funcionando. Guarda esta configuración de forma persistente.
+\end{enumerate}
+
+%%%---------------------------------------------- 
+
+\section{ARP}
+\label{sec:arp}
+
+\begin{enumerate}[resume]
+	\item Partimos del escenario que ya tenías configurado en la \textbf{pregunta  6}. Asegúrate que 
+	hay conectividad entre \texttt{pc2} y \texttt{pc4} a través de \texttt{r5}. Cierra todas las máquinas 
+	y arranca sólo \texttt{pc2}, \texttt{pc4} y \texttt{r5}. Completa la siguiente tabla:
+\end{enumerate}
+
+	\bgroup
+	\def\arraystretch{1.5}%  1 is the default, change whatever you need
+	\begin{tabular}{|l|p{5cm}|p{4cm}|}
+		\hline 
+		\textbf{Nombre máquina} & \textbf{Dirección Ethernet} & \textbf{Dirección IP} \\ 
+		\hline 
+		pc2 &  &   \\ 
+		\hline 
+		pc4 &  &  \\ 
+		\hline 
+		r5 &  &  \\ 
+		\hline 
+	\end{tabular} 
+    \egroup
+    \medskip
+    
+\begin{enumerate}[resume]
+	\item Partiendo de estado inicial, antes de haber ejecutado ningún comando \texttt{ping}, 
+	comprueba el estado de las cachés de ARP. Saca una captura de la terminal de cada máquina 
+	(\texttt{pc2}, \texttt{pc4} y \texttt{r5}) con el comando que has usado y el resultado.
+	
+	\item Arranca \texttt{tcpdump} para capturar el tráfico en \texttt{pc4} y en \texttt{r5} (en su 
+	interfaz \texttt{eth2}). Realiza un único \texttt{ping} desde \texttt{pc2} a \texttt{pc4}. Guarda 
+	las capturas en los ficheros \texttt{cap-pc4-xxx.cap} y \texttt{cap-r5-xxx.cap}, donde \texttt{xxx}
+	son tus iniciales (iguales que las que usaste en los ejercicios del Bloque II). Toma una captura 
+	de pantalla del terminal en \texttt{pc4} y \texttt{r5} donde se vea el comando \texttt{tcpdump} 
+	lanzado.
+	
+	\item Comprueba de nuevo el estado de las cachés de ARP y saca las capturas de la terminal 
+	de cada máquina (\texttt{pc2}, \texttt{pc4} y \texttt{r5}). Compáralas con lo obtenido en la \textbf{pregunta 8} 
+	y explica qué ha ocurrido.
+	
+	\item Abre las dos capturas en Wireshark, toma un pantallazo de cada una y adjúntalos como 
+	respuesta a este apartado.
+	
+	\item Explica cada una de las tramas que aparecen en la captura tomada en \texttt{r5}, indicando 
+	el protocolo, quién la envía, quien la recibe y el propósito.
+\end{enumerate}
+
+%%%---------------------------------------------- 
+
+\section{UDP}
+\label{sec:udp}
+
+\begin{enumerate}[resume]
+	\item Partimos del mismo escenario anterior, en el que hay conectividad entre \texttt{pc2} y 
+	\texttt{pc4} a través de \texttt{r5}. Arranca sólo \texttt{pc2}, \texttt{pc4} y \texttt{r5}. Queremos enviar 
+	el mensaje \texttt{"Hola, soy xxx"}, donde \texttt{xxx} son tus iniciales (igual que en los ejercicios 
+	previos) desde \texttt{pc2} a \texttt{pc4}, mediante el protocolo UDP. Para ello usaremos el 
+	comando \texttt{nc} (\texttt{netcat}, que ya se vio en las prácticas). 
+	
+	Como primer paso arranca el comando \texttt{tcpdump} en \texttt{r5} para que se realice una 
+	captura del tráfico que pasa por su interfaz \texttt{eth0}. Guárdalo en el fichero \texttt{udp-xxx.cap}, 
+	donde \texttt{xxx} son tus iniciales. Lanza \texttt{tcpump}, toma una captura del terminal y 
+	adjúntala como respuesta a esta pregunta.
+	
+	\item Para recibir el mensaje en \texttt{pc4} deberás lanzar \texttt{nc} en modo escucha desde un 
+	puerto que comience por el número \texttt{40} y termine con los dos primeros dígitos de tu DNI. Así, 
+	si tu dni es \texttt{32531021T}, el puerto será \texttt{4032}. Desde \texttt{pc2} lanza el comando 
+	\texttt{nc} en modo cliente usando un puerto origen que comience por \texttt{20} y termine con 
+	los primeros dígitos de tu DNI. Como puerto destino usa el mismo que has empleado en el comando 
+	usado en \texttt{pc4}. Una vez lanzados ambos comandos, toma una captura de pantalla de los dos 
+	termines y adjúntalos como respuesta a esta pregunta. Todavía no hemos enviado el mensaje de texto.
+	
+	\item Desde \texttt{pc2} escribe el mensaje \texttt{"Hola, soy xxx"}, donde \texttt{xxx} son tus iniciales. 
+	Interrumpe el comando \texttt{nc} del ordenador \texttt{pc2}. Interrumpte la captura en \texttt{r5}, 
+	y adjunta pantallazos de los terminales de \texttt{pc2} y \texttt{pc4}. ¿Se ha recibido en \texttt{pc4} 
+	el mensaje enviado?
+	
+	\item Abre la captura con Wireshark. Saca un pantallazo de todas las tramas recibidas y adjúntalo 
+	como respuesta a esta pregunta.
+	
+	\item Indica de entre todas las tramas capturadas cuáles son de apertura de la conexión, y cuáles 
+	de cierre.
+	
+	\item Busca la trama que envía los datos. Toma una captura de wiresark en la que se puedan ver 
+	los datos enviados de \texttt{pc2} a \texttt{pc4}.
+	
+	\item Repite el experimento, pero ahora el comando \texttt{nc} del terminal \texttt{pc2} debe 
+	conectarse al puerto destino \texttt{8000}. Comienza una captura nueva, en el fichero 
+	\texttt{udp2-xxx.cap} (donde \texttt{xxx} son tus iniciales), envía el mensaje \texttt{"Probando"} 
+	(desde \texttt{pc2} a \texttt{pc4}) y cierra la captura. Abre el fichero con Wireshark y adjunta en
+	tu respuesta un	pantallazo con las tramas capturadas.
+	
+	\item Explica cada una de las tramas, y qué es lo que ha sucedido. ¿Ha recibido \texttt{pc4} el mensaje?
+	
+\end{enumerate}
+
+%%%---------------------------------------------- 
+
+\section{TCP}
+\label{sec:tcp}
+
+\begin{enumerate}[resume]
+	\item Partimos del mismo escenario anterior. Queremos enviar el mismo mensaje desde \texttt{pc2} a 
+	\texttt{pc4}:  \texttt{"Hola, soy xxx"}, donde \texttt{xxx} son tus iniciales. Pero ahora usaremos el 
+	protocolo TCP. Arranca el comando \texttt{tcpdump} en \texttt{r5} para realizar una captura en su 
+	interfaz \texttt{eth0}. Guárdalo en el fichero \texttt{tcp-xxx.cap}, donde \texttt{xxx} son tus iniciales. 
+	Lanza \texttt{tcpdump} y toma una captura del terminal. Adjunta la captura como respuesta a esta 
+	pregunta.
+	
+	\item Lanza \texttt{nc} en \texttt{pc4} en modo escucha, desde un puerto que comience por el número 
+	\texttt{40} y termine con los dos primeros dígitos de tu DNI (igual que en el apartado de UDP). Desde 
+	\texttt{pc2} lanza el comando \texttt{nc} en modo cliente un puerto origen que comience por \texttt{20} 
+	y termine con los primeros dígitos de tu DNI. Como puerto destino usa el mismo que has empleado 
+	en el comando usado en \texttt{pc4}. Una vez lanzados ambos comandos, toma una captura de pantalla 
+	de los dos terminales y adjúntalas como respuesta a esta pregunta. Todavía no hemos enviado el 
+	mensaje de texto.
+	
+	\item Desde \texttt{pc2} escribe el mensaje \texttt{"Hola, soy xxx"}, donde \texttt{xxx} son tus iniciales. 
+	Interrumpe el comando \texttt{nc} del ordenador \texttt{pc2}. Interrumpe la captura en \texttt{r5}, y 
+	adjunta pantallazos de los terminales de \texttt{pc2} y \texttt{pc4}. ¿Se ha recibido en \texttt{pc4} 
+	el mensaje enviado?
+	
+	\item Abre la captura con Wireshark. Saca un pantallazo de todas las tramas recibidas y adjúntalo 
+	como respuesta a esta pregunta.
+	
+	\item Indica de entre todas las tramas capturadas cuáles son de apertura de la conexión, y cuáles de 
+	cierre.
+	
+	\item Explica cada una de las tramas y qué es lo que ha sucedido.
+	
+\end{enumerate}
+\bigskip
+
+%%%---------------------------------------------- 
+
+% Final glyph to end document
+\begin{center}
+	{\LARGE\adforn{21}\quad\adforn{33}\quad\adforn{49}}
+\end{center}
+
+\end{document}
+
